@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Desktop/Вступ до програмування паралельних процесів/IndTask/cmake-build-debug/CMakeFiles/IndTask.dir
+C:/Users/LENOVO/Desktop/Вступ до програмування паралельних процесів/IndTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Desktop/Вступ до програмування паралельних процесів/IndTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
